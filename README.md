@@ -16,8 +16,8 @@ ios/Runner/AppDelegate.swift, line 12
 
 ## Screenshots
 
-![Screenshot 1](https://i.imgur.com/IqgKPaJ.jpg "Home page")
+![Screenshot 1](https://i.imgur.com/IqgKPaJ.jpg =236x512)
 
-![Screenshot 2](https://i.imgur.com/TKu4RbQ.jpg "Details page")
+![Screenshot 2](https://i.imgur.com/TKu4RbQ.jpg =236x512)
 
-![Screenshot 3](https://i.imgur.com/2inZXYI.jpg "Search page")
+![Screenshot 3](https://i.imgur.com/2inZXYI.jpg =236x512)
