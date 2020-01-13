@@ -16,8 +16,8 @@ ios/Runner/AppDelegate.swift, line 12
 
 ## Screenshots
 
-![Screenshot 1](https://i.imgur.com/IqgKPaJ.jpg =236x512)
+<img src="https://i.imgur.com/IqgKPaJ.jpg" width="40%" height="40%">
 
-![Screenshot 2](https://i.imgur.com/TKu4RbQ.jpg =236x512)
+<img src="https://i.imgur.com/TKu4RbQ.jpg" width="40%" height="40%">
 
-![Screenshot 3](https://i.imgur.com/2inZXYI.jpg =236x512)
+<img src="https://i.imgur.com/2inZXYI.jpg" width="40%" height="40%">
