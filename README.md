@@ -16,8 +16,13 @@ ios/Runner/AppDelegate.swift, line 12
 
 ## Screenshots
 
-<img src="https://i.imgur.com/IqgKPaJ.jpg" width="40%" height="40%">
 
-<img src="https://i.imgur.com/TKu4RbQ.jpg" width="40%" height="40%">
-
-<img src="https://i.imgur.com/2inZXYI.jpg" width="40%" height="40%">
+<div style="width:33.33%">
+  <img src="https://i.imgur.com/IqgKPaJ.jpg" width="30%" height="40%">
+</div>
+<div style="width:33.33%">
+  <img src="https://i.imgur.com/TKu4RbQ.jpg" width="30%" height="40%">
+</div>
+<div style="width:33.33%">
+  <img src="https://i.imgur.com/2inZXYI.jpg" width="30%" height="40%">
+</div>
